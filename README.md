@@ -1,4 +1,4 @@
-# elixir_hpc_hackaton
+# elixir_hpc_hackathon
 
 Day 1 - Friday, 28 May 2021, 10:00 - 16:00 CEST
 
